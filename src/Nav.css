@@ -14,15 +14,16 @@
     background-color: black;
 }
 
-.nav_logo {
+.nav__logo {
     position: fixed;
     left: 20px;
     width: 80px;
     object-fit: contain;
 }
 
-.nav_avatar {
+.nav__avatar {
+    position: fixed;
     width: 30px;
-    right: 20px;
+    right: 50px;
     object-fit: contain;
 }
